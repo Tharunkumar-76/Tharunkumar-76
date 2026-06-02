@@ -46,8 +46,8 @@ I'm a developer based in India, pursuing my studies at **Vel Tech**. I love craf
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tharunkumar-76&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=79c0ff&icon_color=79c0ff&text_color=c9d1d9" height="150" alt="Tharun's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharunkumar-76&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=79c0ff&text_color=c9d1d9" height="150" alt="Tharun's Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Tharunkumar-76&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=79c0ff&icon_color=79c0ff&text_color=c9d1d9" height="150" alt="Tharun's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Tharunkumar-76&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=79c0ff&text_color=c9d1d9" height="150" alt="Tharun's Top Languages" />
 </p>
 
 <p align="center">
