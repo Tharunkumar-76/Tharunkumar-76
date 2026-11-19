@@ -2,7 +2,7 @@
 
 # Hi, I'm Tharun Kumar Kode 👋
 
-**CS Student @ Vel Tech • Python & Web Developer • AI-Assisted Builder**
+**AI-ML Student @ Vel Tech • Python & Web Developer • AI-Assisted Builder**
 
 <p>
   <a href="mailto:tharunkode12@gmail.com">
